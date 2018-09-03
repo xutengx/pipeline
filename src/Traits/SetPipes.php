@@ -1,7 +1,7 @@
 <?php
 
 declare(strict_types = 1);
-namespace XUtengx\Pipeline\Traits;
+namespace Xutengx\Pipeline\Traits;
 
 /**
  * 设置管道流程
